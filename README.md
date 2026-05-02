@@ -101,4 +101,5 @@ Pause and cancel are cooperative: the manager sets a stop event, workers stop af
 - Source code in this repository.
 - Architecture documentation in this README.
 - Technical report in `docs/technical_report.docx`.
-- Demo video checklist in `docs/demo_script.md`.
+- Demo video in `deliverables/demo_video.zip`.
+- Demo recording checklist in `docs/demo_script.md`.
